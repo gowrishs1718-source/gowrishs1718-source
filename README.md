@@ -72,18 +72,6 @@ A Python-based educational project that combines historical stock-market data, d
 - Studying DSA in C++: arrays, strings, hashing, recursion, linked lists, stacks, queues, trees, graphs, and dynamic programming.
 - Improving testing, debugging, documentation, and deployment workflows.
 
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gowrishs1718-source&show_icons=true&hide_title=true&include_all_commits=true&theme=tokyonight" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowrishs1718-source&layout=compact&theme=tokyonight" alt="Most-used languages" />
-
-<img src="https://streak-stats.demolab.com?user=gowrishs1718-source&theme=tokyonight" alt="GitHub contribution streak" />
-
-</div>
-
-*Stats cards are provided by third-party services and may occasionally be unavailable or delayed.*
 
 ## 🤝 Let's Connect
 
